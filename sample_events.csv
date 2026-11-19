@@ -1,0 +1,5 @@
+source,external_id,record_id,event_time,owner,stage,next_step
+sample-transcript,T-1001,OPP-001,2026-11-10T10:00:00-08:00,alex@example.test,Discovery,Schedule follow-up
+sample-transcript,T-1002,OPP-002,2026-11-10T18:20:00Z,jamie@example.test,Qualified,
+sample-transcript,T-1003,OPP-001,2026-11-11T09:00:00-08:00,alex@example.test,Proposal,Send pricing sheet
+sample-transcript,T-1004,OPP-003,2026-11-12T09:00:00-08:00,morgan@example.test,Contacted,Confirm decision maker
